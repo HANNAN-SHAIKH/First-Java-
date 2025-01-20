@@ -17,7 +17,5 @@ class First
     obj.sum();
     obj.sub();
   
-  }
-  
-    
-  }
+  }   
+}
